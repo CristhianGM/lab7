@@ -1,0 +1,21 @@
+html {
+    border: solid 1px yellow;
+}
+body {
+    margin: 5px;
+    border: solid 1px blue;
+    padding: 10px;
+}
+img {
+    margin: 15px;
+    border: solid 1px orange;
+    border-radius: 50px;
+}
+p {
+    border: solid 1px red;
+    padding: 10px;
+    text-align: justify;
+}
+strong , a {
+    border: solid 1px green;
+}

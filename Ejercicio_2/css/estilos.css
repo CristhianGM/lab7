@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+p.parrafo1 {
+    margin: 100px;
+    border: solid 50px orange;
+    padding: 25px;
+    text-align: justify;
+    background-color: yellow;
+}
+
+p.parrafo2 {
+    margin: 100px;
+    border: solid 50px orange;
+    border-radius: 20px;
+    padding: 25px;
+    text-align: justify;
+    background-color: cyan;
+}

@@ -1,0 +1,22 @@
+body{
+    margin: 100px;
+    border: solid 1px black;
+    padding: 0;
+}
+a.ancla1{
+    margin: 100px;
+    border: solid 50px orange;
+    border-radius: 20px;
+    padding: 25px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+a.ancla2{
+    margin: 100px;
+    border: solid 50px blue;
+    border-radius: 20px;
+    padding: 25px;
+    background-color: lightblue;
+    display: inline-block;
+}

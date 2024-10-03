@@ -1,0 +1,14 @@
+@import url(/AEW_Semana_07/Ejercicio_4/css/estilos.css);
+h1 {
+    color: blue;
+    border-bottom: solid 5px orange;
+}
+img {
+    border: none;
+    border-radius: 0;
+}
+h2.subtitulo {
+    color: black;
+    background-color: yellow;
+    border: solid 1px indianred;
+}
